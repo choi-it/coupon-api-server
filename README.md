@@ -27,7 +27,9 @@
 <br>
 
 **[로그 파일 기록 화면]**
-![서버 로그 화면](로그사진)
+![서버 로그 화면]
+<img width="622" height="50" alt="logSC" src="https://github.com/user-attachments/assets/ad46374a-8e93-4462-8329-8b2d75ba7594" />
+
 
 ### 3. 데이터베이스 설계 (DB & RDBMS)
 * coupons 테이블(재고 관리)과 coupon_issues 테이블(발급 내역)을 분리하여 정규화했습니다.
@@ -36,7 +38,9 @@
 <br>
 
 **[MySQL Workbench 데이터베이스 테이블 화면]**
-![MySQL Workbench 화면](Workbench사진)
+![MySQL Workbench 화면]
+<img width="959" height="502" alt="Workbench" src="https://github.com/user-attachments/assets/04433299-8d57-4472-b34b-11011e71023e" />
+
 
 ### API 명세 (기능 요약)
 * POST /init : 테스트용 쿠폰 100개를 DB에 초기화(생성)합니다.
@@ -45,7 +49,10 @@
 <br>
 
 **[Swagger UI 테스트 화면]**
-![Swagger UI 화면](docs사진)
+![Swagger UI 화면]
+<img width="959" height="407" alt="log1" src="https://github.com/user-attachments/assets/0fa08d7a-fb74-408f-b144-a1390f9c9fce" />
+<img width="959" height="410" alt="log2" src="https://github.com/user-attachments/assets/9f34f7fe-57e0-44e6-b3a1-83fa7ccfad76" />
+
 
 ### 실행 방법
 * 로컬 환경에 MySQL 서버를 띄우고 coupon_system 데이터베이스를 생성합니다.
